@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+    height: 100vh;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(65, 62, 62) ;
+    float: left;
+    margin-right: 1rem;
+    border: 3px black solid;
+}
+
+.clearfix4{
+    clear: left;
+    margin-bottom: 1rem;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(65, 62, 62) ;
+    float:right;
+    margin-right: 1rem;
+    border: 3px black solid;
+
+}
+
+.slider{
+    float: left;
+    margin-right: 60rem;
+}
+
+.clearfix5{
+    clear:right;
+    margin-bottom: 1rem;
+
+}
+
